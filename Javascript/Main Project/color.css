@@ -1,0 +1,19 @@
+body{
+    font-family: cursive;
+    background-color:rgb(157, 213, 213);
+}
+h1{
+    padding-left: 30px;
+}
+body p{
+    font-size: 20px;
+    float:right;
+    padding-right: 100px;
+}
+.page1{
+    text-align: center;
+}
+.page2{
+    text-align: center;
+    display: none;
+}

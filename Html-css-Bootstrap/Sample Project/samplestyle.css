@@ -1,0 +1,79 @@
+.navbar-brand{
+    color: rgb(82, 172, 172);
+    font-family:poppins;
+    font-weight: 700;
+    font-size: 50px;
+}
+.nav{
+    text-transform: uppercase;
+    font-size: 20px;
+    height: 100px;
+    padding-top: 30px;
+}
+.bg1{
+    background-color: rgb(34, 181, 226);
+    height: 500px;
+}
+.aboutme{
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    padding-top: 50px;
+    font-family:cursive ;
+}
+.para{
+    color: white;
+    padding-top: 10px;
+}
+.image{
+    align-items: center;
+    height: 300px;
+}
+tbody{
+    color: white;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.bg2{
+    background-color: rgb(104, 112, 114);
+    height: 1050px;
+}
+.workex{
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    padding-top: 50px;
+    /* font-family:Kanit; */
+}
+.para2{
+    color: white;
+    padding-top: 10px;
+}
+.bg3{
+    background-color: rgb(24, 148, 107);
+}
+.bg4{
+    margin-top: 100px;
+    padding: 20px;
+}
+.bg3 button{
+    border-radius: 10px;
+    margin-left: 400px;
+    margin-top: 20px;
+    height: 40px;
+    width: 100px;
+}
+footer .copy{
+    color: rgb(174, 185, 200);
+    padding-left: 10px;
+}
+footer .back{
+    color: rgb(174, 185, 200);
+    padding-left: 600px;
+}
+footer i{
+    padding: 10px;
+}
+form{
+    text-align:justify;
+    padding-left: 50px;
+}

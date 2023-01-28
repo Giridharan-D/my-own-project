@@ -1,0 +1,108 @@
+.cover{
+    background-color: bisque;
+    margin-top: 30px;
+}
+.box0{
+    background-color: bisque;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 40px;
+    font-weight: 700;
+    padding-bottom: 20px;
+}
+.box1{
+    background-color: rgb(32, 179, 224);
+    text-align: center;
+    height: 500px;
+    font-weight: 700;
+    font-size: 20px;
+    padding-top: 30px;
+    border-radius: 10px;
+}
+.box2{
+    background-color: rgb(194, 186, 174);
+    text-align: center;
+    height: 500px;
+    font-weight: 700;
+    font-size: 20px;
+    padding-top: 30px;
+    border-radius: 10px;
+}
+.box3{
+    background-color: rgb(32, 179, 224);
+    text-align: center;
+    height: 500px;
+    font-weight: 700;
+    font-size: 20px;
+    padding-top: 30px;
+    border-radius: 10px;
+}
+.box4{
+    background-color: rgb(183, 80, 173);
+    text-align: center;
+    height:100px;
+    font-weight: 700;
+    font-size: 20px;
+    padding-top: 30px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+.box5{
+    background-color: rgb(183, 80, 173);
+    text-align: center;
+    height: 100px;
+    font-weight: 700;
+    font-size: 20px;
+    padding-top: 30px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+.box6{
+    background-color: rgb(127, 143, 73);
+    text-align: center;
+    height:100px;
+    font-weight: 700;
+    font-size: 20px;
+    padding-top: 30px;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+.box7{
+    background-color: rgb(26, 154, 86);
+    text-align: center;
+    height: 200px;
+    font-weight: 700;
+    font-size: 20px;
+    padding-top: 30px;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+.box8{
+    background-color: rgb(214, 96, 18);
+    text-align: center;
+    height:100px;
+    font-weight: 700;
+    font-size: 20px;
+    padding-top: 30px;
+    margin-top: 40px;
+    border-radius: 10px;
+}
+.box9{
+    background-color: rgb(203, 41, 9);
+    text-align: center;
+    height: 100px;
+    font-weight: 700;
+    font-size: 20px;
+    padding-top: 30px;
+    margin-top: 40px;
+    border-radius: 10px;
+}
+.box10{
+    background-color: rgb(162, 151, 183);
+    text-align: center;
+    height: 100px;
+    font-weight: 700;
+    font-size: 20px;
+    padding-top: 30px;
+    border-radius: 10px;
+}
